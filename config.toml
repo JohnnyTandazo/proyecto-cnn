@@ -1,0 +1,2 @@
+[compatibility]
+python_version = "3.9" # O 3.10, 3.11, etc., según la versión que sea compatible con tu TensorFlow
